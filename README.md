@@ -25,7 +25,7 @@ Simple and practical desktop tool for managing your personal finances.
 
 ## 🚀 How to Use
 
-1. Download the `.exe` file
+1. Download the `.exe` file and JRE 25
 2. Run the application
 3. Start adding your income and expenses
 4. Monitor your balance and spending habits
