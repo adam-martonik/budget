@@ -39,18 +39,6 @@ Simple and practical desktop tool for managing your personal finances.
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is for **viewing and demonstration purposes only**.
-You are not allowed to copy, modify, or redistribute the code without permission.
-
----
-
-## 🔒 License
-
-All rights reserved.
-
----
 
 ## 👤 Author
 
